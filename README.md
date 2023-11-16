@@ -27,3 +27,5 @@ Sou um entusiasta de tecnologia e estudante dedicado em busca de meu primeiro em
  <a><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  <a><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
+
+![snake gif](https://github.com/pedrodabahia/pedrodabahia/blob/output/github-contribution-grid-snake.svg)
