@@ -6,6 +6,5 @@ Sou um entusiasta de tecnologia e estudante dedicado em busca de meu primeiro em
 
 
 <div>
- <img width="100%" src="https://github-readme-stats.vercel.app/api?username=pedrodabahia&theme=shadow_green&show_icons=true">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodabahia&layout=compact&theme=shadow_green">
+ <img width="50%" src="https://github-readme-stats.vercel.app/api?username=pedrodabahia&theme=shadow_green&show_icons=true"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodabahia&layout=compact&theme=shadow_green">
 </div>
