@@ -28,4 +28,6 @@ Sou um entusiasta de tecnologia e estudante dedicado em busca de meu primeiro em
  <a><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
 
- ![](https://github.com/pedrodabahia/pedrodabahia/blob/main/GID.gif)
+![GID](https://github.com/pedrodabahia/pedrodabahia/assets/109925892/97935dd9-e51e-4fe8-8df3-9b50dd0458c1)
+
+
