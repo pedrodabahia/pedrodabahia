@@ -5,7 +5,7 @@ Sou um entusiasta de tecnologia e estudante dedicado em busca de meu primeiro em
 ##
 
 
-###  :chart_with_upwards_trend: Aqui estão as estatisticas dos meus estudos e projetos que desenvolvo 
+###  :chart_with_upwards_trend:Aqui estão as estatisticas dos meus estudos e projetos que desenvolvo 
 <div>
  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrodabahia&theme=shadow_green&show_icons=true"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodabahia&layout=compact&theme=shadow_green">
 </div> 
