@@ -1,4 +1,4 @@
-## #Eae vey!! Eu sou Pedro Matos 
+## #Eae vey!! Eu sou Pedro Matos :frog:
 
 Sou um entusiasta de tecnologia e estudante dedicado em busca de meu primeiro emprego na área. Atualmente, estou imerso no mundo do desenvolvimento front-end, ansioso para aplicar os conhecimentos adquiridos em contextos práticos. Minha jornada inclui exploração em *JAVASCRIPT, JQUERY, HTML5, CSS3*, e embora esteja na fase inicial da construção de minha carreira, já desenvolvi diversos projetos notáveis, como pode ver no meu repositorio. Estou entusiasmado para enfrentar novos desafios, aprender com experiências reais e crescer profissionalmente. Se você procura alguém comprometido e ávido para contribuir, estou pronto para embarcar nessa jornada e fazer a diferença. Vamos construir algo incrível juntos! 🚀
 
