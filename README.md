@@ -13,6 +13,7 @@ Sou um entusiasta de tecnologia e estudante dedicado em busca de meu primeiro em
 ##
 
 <div>
+ <a href="https://www.w3schools.com/css/"> <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></a>
  <a href="https://www.w3schools.com/js/"> <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
  <a href="https://jquery.com/"> <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg"></a>
  <a href="https://www.w3schools.com/html/"><img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
